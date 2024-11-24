@@ -1,0 +1,4 @@
+spring.application.name:
+  HaGame
+server:
+  port: 3001
